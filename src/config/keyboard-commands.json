@@ -1,0 +1,1946 @@
+[
+  {
+    "id": {
+      "keycode": 0,
+      "name": "KEY_RESERVED",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 1,
+      "name": "KEY_ESC",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 2,
+      "name": "KEY_1",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 3,
+      "name": "KEY_2",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 4,
+      "name": "KEY_3",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 5,
+      "name": "KEY_4",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 6,
+      "name": "KEY_5",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 7,
+      "name": "KEY_6",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 8,
+      "name": "KEY_7",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 9,
+      "name": "KEY_8",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 10,
+      "name": "KEY_9",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 11,
+      "name": "KEY_0",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 12,
+      "name": "KEY_MINUS",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 13,
+      "name": "KEY_EQUAL",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 14,
+      "name": "KEY_BACKSPACE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 15,
+      "name": "KEY_TAB",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 16,
+      "name": "KEY_Q",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 17,
+      "name": "KEY_W",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 18,
+      "name": "KEY_E",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 19,
+      "name": "KEY_R",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 20,
+      "name": "KEY_T",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 21,
+      "name": "KEY_Y",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 22,
+      "name": "KEY_U",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 23,
+      "name": "KEY_I",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 24,
+      "name": "KEY_O",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 25,
+      "name": "KEY_P",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 26,
+      "name": "KEY_LEFTBRACE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 27,
+      "name": "KEY_RIGHTBRACE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 28,
+      "name": "KEY_ENTER",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 29,
+      "name": "KEY_LEFTCTRL",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 30,
+      "name": "KEY_A",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 31,
+      "name": "KEY_S",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 32,
+      "name": "KEY_D",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 33,
+      "name": "KEY_F",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 34,
+      "name": "KEY_G",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 35,
+      "name": "KEY_H",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 36,
+      "name": "KEY_J",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 37,
+      "name": "KEY_K",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 38,
+      "name": "KEY_L",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 39,
+      "name": "KEY_SEMICOLON",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 40,
+      "name": "KEY_APOSTROPHE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 41,
+      "name": "KEY_GRAVE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 42,
+      "name": "KEY_LEFTSHIFT",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 43,
+      "name": "KEY_BACKSLASH",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 44,
+      "name": "KEY_Z",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 45,
+      "name": "KEY_X",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 46,
+      "name": "KEY_C",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 47,
+      "name": "KEY_V",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 48,
+      "name": "KEY_B",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 49,
+      "name": "KEY_N",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 50,
+      "name": "KEY_M",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 51,
+      "name": "KEY_COMMA",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 52,
+      "name": "KEY_DOT",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 53,
+      "name": "KEY_SLASH",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 54,
+      "name": "KEY_RIGHTSHIFT",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 55,
+      "name": "KEY_KPASTERISK",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 56,
+      "name": "KEY_LEFTALT",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 57,
+      "name": "KEY_SPACE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 58,
+      "name": "KEY_CAPSLOCK",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 59,
+      "name": "KEY_F1",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 60,
+      "name": "KEY_F2",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 61,
+      "name": "KEY_F3",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 62,
+      "name": "KEY_F4",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 63,
+      "name": "KEY_F5",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 64,
+      "name": "KEY_F6",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 65,
+      "name": "KEY_F7",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 66,
+      "name": "KEY_F8",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 67,
+      "name": "KEY_F9",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 68,
+      "name": "KEY_F10",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 69,
+      "name": "KEY_NUMLOCK",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 70,
+      "name": "KEY_SCROLLLOCK",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 71,
+      "name": "KEY_KP7",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 72,
+      "name": "KEY_KP8",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 73,
+      "name": "KEY_KP9",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 74,
+      "name": "KEY_KPMINUS",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 75,
+      "name": "KEY_KP4",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 76,
+      "name": "KEY_KP5",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 77,
+      "name": "KEY_KP6",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 78,
+      "name": "KEY_KPPLUS",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 79,
+      "name": "KEY_KP1",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 80,
+      "name": "KEY_KP2",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 81,
+      "name": "KEY_KP3",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 82,
+      "name": "KEY_KP0",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 83,
+      "name": "KEY_KPDOT",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 85,
+      "name": "KEY_ZENKAKUHANKAKU",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 86,
+      "name": "KEY_102ND",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 87,
+      "name": "KEY_F11",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 88,
+      "name": "KEY_F12",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 89,
+      "name": "KEY_RO",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 90,
+      "name": "KEY_KATAKANA",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 91,
+      "name": "KEY_HIRAGANA",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 92,
+      "name": "KEY_HENKAN",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 93,
+      "name": "KEY_KATAKANAHIRAGANA",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 94,
+      "name": "KEY_MUHENKAN",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 95,
+      "name": "KEY_KPJPCOMMA",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 96,
+      "name": "KEY_KPENTER",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 97,
+      "name": "KEY_RIGHTCTRL",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 98,
+      "name": "KEY_KPSLASH",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 99,
+      "name": "KEY_SYSRQ",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 100,
+      "name": "KEY_RIGHTALT",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 101,
+      "name": "KEY_LINEFEED",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 102,
+      "name": "KEY_HOME",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 103,
+      "name": "KEY_UP",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 104,
+      "name": "KEY_PAGEUP",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 105,
+      "name": "KEY_LEFT",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 106,
+      "name": "KEY_RIGHT",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 107,
+      "name": "KEY_END",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 108,
+      "name": "KEY_DOWN",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 109,
+      "name": "KEY_PAGEDOWN",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 110,
+      "name": "KEY_INSERT",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 111,
+      "name": "KEY_DELETE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 112,
+      "name": "KEY_MACRO",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 113,
+      "name": "KEY_MUTE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 114,
+      "name": "KEY_VOLUMEDOWN",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 115,
+      "name": "KEY_VOLUMEUP",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 116,
+      "name": "KEY_POWER",
+      "notes": "SC System Power Down"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 117,
+      "name": "KEY_KPEQUAL",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 118,
+      "name": "KEY_KPPLUSMINUS",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 119,
+      "name": "KEY_PAUSE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 120,
+      "name": "KEY_SCALE",
+      "notes": "AL Compiz Scale (Expose)"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 121,
+      "name": "KEY_KPCOMMA",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 122,
+      "name": "KEY_HANGEUL",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 123,
+      "name": "KEY_HANJA",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 124,
+      "name": "KEY_YEN",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 125,
+      "name": "KEY_LEFTMETA",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 126,
+      "name": "KEY_RIGHTMETA",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 127,
+      "name": "KEY_COMPOSE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 128,
+      "name": "KEY_STOP",
+      "notes": "AC Stop"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 129,
+      "name": "KEY_AGAIN",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 130,
+      "name": "KEY_PROPS",
+      "notes": "AC Properties"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 131,
+      "name": "KEY_UNDO",
+      "notes": "AC Undo"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 132,
+      "name": "KEY_FRONT",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 133,
+      "name": "KEY_COPY",
+      "notes": "AC Copy"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 134,
+      "name": "KEY_OPEN",
+      "notes": "AC Open"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 135,
+      "name": "KEY_PASTE",
+      "notes": "AC Paste"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 136,
+      "name": "KEY_FIND",
+      "notes": "AC Search"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 137,
+      "name": "KEY_CUT",
+      "notes": "AC Cut"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 138,
+      "name": "KEY_HELP",
+      "notes": "AL Integrated Help Center"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 139,
+      "name": "KEY_MENU",
+      "notes": "Menu (show menu)"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 140,
+      "name": "KEY_CALC",
+      "notes": "AL Calculator"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 141,
+      "name": "KEY_SETUP",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 142,
+      "name": "KEY_SLEEP",
+      "notes": "SC System Sleep"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 143,
+      "name": "KEY_WAKEUP",
+      "notes": "System Wake Up"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 144,
+      "name": "KEY_FILE",
+      "notes": "AL Local Machine Browser"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 145,
+      "name": "KEY_SENDFILE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 146,
+      "name": "KEY_DELETEFILE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 147,
+      "name": "KEY_XFER",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 148,
+      "name": "KEY_PROG1",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 149,
+      "name": "KEY_PROG2",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 150,
+      "name": "KEY_WWW",
+      "notes": "AL Internet Browser"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 151,
+      "name": "KEY_MSDOS",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 152,
+      "name": "KEY_COFFEE",
+      "notes": "AL Terminal Lock\/Screensaver"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 153,
+      "name": "KEY_ROTATE_DISPLAY",
+      "notes": "Display orientation for e.g. tablets"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 154,
+      "name": "KEY_CYCLEWINDOWS",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 155,
+      "name": "KEY_MAIL",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 156,
+      "name": "KEY_BOOKMARKS",
+      "notes": "AC Bookmarks"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 157,
+      "name": "KEY_COMPUTER",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 158,
+      "name": "KEY_BACK",
+      "notes": "AC Back"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 159,
+      "name": "KEY_FORWARD",
+      "notes": "AC Forward"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 160,
+      "name": "KEY_CLOSECD",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 161,
+      "name": "KEY_EJECTCD",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 162,
+      "name": "KEY_EJECTCLOSECD",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 163,
+      "name": "KEY_NEXTSONG",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 164,
+      "name": "KEY_PLAYPAUSE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 165,
+      "name": "KEY_PREVIOUSSONG",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 166,
+      "name": "KEY_STOPCD",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 167,
+      "name": "KEY_RECORD",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 168,
+      "name": "KEY_REWIND",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 169,
+      "name": "KEY_PHONE",
+      "notes": "Media Select Telephone"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 170,
+      "name": "KEY_ISO",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 171,
+      "name": "KEY_CONFIG",
+      "notes": "AL Consumer Control Configuration"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 172,
+      "name": "KEY_HOMEPAGE",
+      "notes": "AC Home"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 173,
+      "name": "KEY_REFRESH",
+      "notes": "AC Refresh"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 174,
+      "name": "KEY_EXIT",
+      "notes": "AC Exit"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 175,
+      "name": "KEY_MOVE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 176,
+      "name": "KEY_EDIT",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 177,
+      "name": "KEY_SCROLLUP",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 178,
+      "name": "KEY_SCROLLDOWN",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 179,
+      "name": "KEY_KPLEFTPAREN",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 180,
+      "name": "KEY_KPRIGHTPAREN",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 181,
+      "name": "KEY_NEW",
+      "notes": "AC New"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 182,
+      "name": "KEY_REDO",
+      "notes": "AC Redo\/Repeat"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 183,
+      "name": "KEY_F13",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 184,
+      "name": "KEY_F14",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 185,
+      "name": "KEY_F15",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 186,
+      "name": "KEY_F16",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 187,
+      "name": "KEY_F17",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 188,
+      "name": "KEY_F18",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 189,
+      "name": "KEY_F19",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 190,
+      "name": "KEY_F20",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 191,
+      "name": "KEY_F21",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 192,
+      "name": "KEY_F22",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 193,
+      "name": "KEY_F23",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 194,
+      "name": "KEY_F24",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 200,
+      "name": "KEY_PLAYCD",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 201,
+      "name": "KEY_PAUSECD",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 202,
+      "name": "KEY_PROG3",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 203,
+      "name": "KEY_PROG4",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 204,
+      "name": "KEY_DASHBOARD",
+      "notes": "AL Dashboard"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 205,
+      "name": "KEY_SUSPEND",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 206,
+      "name": "KEY_CLOSE",
+      "notes": "AC Close"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 207,
+      "name": "KEY_PLAY",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 208,
+      "name": "KEY_FASTFORWARD",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 209,
+      "name": "KEY_BASSBOOST",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 210,
+      "name": "KEY_PRINT",
+      "notes": "AC Print"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 211,
+      "name": "KEY_HP",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 212,
+      "name": "KEY_CAMERA",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 213,
+      "name": "KEY_SOUND",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 214,
+      "name": "KEY_QUESTION",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 215,
+      "name": "KEY_EMAIL",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 216,
+      "name": "KEY_CHAT",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 217,
+      "name": "KEY_SEARCH",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 218,
+      "name": "KEY_CONNECT",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 219,
+      "name": "KEY_FINANCE",
+      "notes": "AL Checkbook\/Finance"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 220,
+      "name": "KEY_SPORT",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 221,
+      "name": "KEY_SHOP",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 222,
+      "name": "KEY_ALTERASE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 223,
+      "name": "KEY_CANCEL",
+      "notes": "AC Cancel"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 224,
+      "name": "KEY_BRIGHTNESSDOWN",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 225,
+      "name": "KEY_BRIGHTNESSUP",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 226,
+      "name": "KEY_MEDIA",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 227,
+      "name": "KEY_SWITCHVIDEOMODE",
+      "notes": "Cycle between available video outputs (Monitor\/LCD\/TV-out\/etc)"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 228,
+      "name": "KEY_KBDILLUMTOGGLE",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 229,
+      "name": "KEY_KBDILLUMDOWN",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 230,
+      "name": "KEY_KBDILLUMUP",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 231,
+      "name": "KEY_SEND",
+      "notes": "AC Send"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 232,
+      "name": "KEY_REPLY",
+      "notes": "AC Reply"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 233,
+      "name": "KEY_FORWARDMAIL",
+      "notes": "AC Forward Msg"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 234,
+      "name": "KEY_SAVE",
+      "notes": "AC Save"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 235,
+      "name": "KEY_DOCUMENTS",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 236,
+      "name": "KEY_BATTERY",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 237,
+      "name": "KEY_BLUETOOTH",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 238,
+      "name": "KEY_WLAN",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 239,
+      "name": "KEY_UWB",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 240,
+      "name": "KEY_UNKNOWN",
+      "notes": ""
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 241,
+      "name": "KEY_VIDEO_NEXT",
+      "notes": "drive next video source"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 242,
+      "name": "KEY_VIDEO_PREV",
+      "notes": "drive previous video source"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 243,
+      "name": "KEY_BRIGHTNESS_CYCLE",
+      "notes": "brightness up, after max is min"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 244,
+      "name": "KEY_BRIGHTNESS_AUTO",
+      "notes": "Set Auto Brightness: manual brightness control is off, rely on ambient"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 245,
+      "name": "KEY_DISPLAY_OFF",
+      "notes": "display device to off state"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 246,
+      "name": "KEY_WWAN",
+      "notes": "Wireless WAN (LTE, UMTS, GSM, etc.)"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 247,
+      "name": "KEY_RFKILL",
+      "notes": "Key that controls all radios"
+    },
+    "commands": []
+  },
+  {
+    "id": {
+      "keycode": 248,
+      "name": "KEY_MICMUTE",
+      "notes": "Mute \/ unmute the microphone"
+    },
+    "commands": []
+  }
+]
